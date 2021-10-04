@@ -1,0 +1,66 @@
+﻿<Page x:Class="VPLanViewer.Settings"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:VPLanViewer"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Settings">
+
+    <DockPanel Loaded="DockPanel_Loaded" LastChildFill="True">
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <Button x:Name="back" Margin="10,0" Click="back_Click" HorizontalAlignment="Center">zurück</Button>
+        </StackPanel>
+        <Border DockPanel.Dock="Top" Height="3" Background="Black"/>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition MinHeight="25"/>
+                <RowDefinition MinHeight="25"/>
+                <RowDefinition MinHeight="25"/>
+                <RowDefinition MinHeight="25"/>
+                <RowDefinition MinHeight="25"/>
+                <RowDefinition MinHeight="25"/>
+                <RowDefinition MinHeight="25"/>
+                <RowDefinition MinHeight="25"/>
+                <RowDefinition MinHeight="25"/>
+                <RowDefinition MinHeight="25"/>
+                <RowDefinition MinHeight="25"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+                <ColumnDefinition MinWidth="20"/>
+            </Grid.ColumnDefinitions>
+            <Label Grid.Row="0" Grid.Column="6" Grid.ColumnSpan="7" Grid.RowSpan="2" VerticalAlignment="Center" HorizontalAlignment="center" Margin="0,10,0,0" FontSize="20">Erweiterte Einstellungen</Label>
+            <StackPanel Grid.Row="2" Grid.Column="6" Grid.ColumnSpan="7" Grid.RowSpan="4" VerticalAlignment="Center">
+                <StackPanel HorizontalAlignment="center">
+                    <CheckBox Unchecked="ManulualReloadBox_Check" Checked="ManulualReloadBox_Check" x:Name="ManulualReloadBox">Nur Manuelles Neuladen</CheckBox>
+                    <CheckBox Unchecked="CustomFeedBox_Check" Checked="CustomFeedBox_Check" x:Name="CustomFeedBox">custom feed</CheckBox>
+                    <CheckBox Unchecked="OnlineFeed_Check" Checked="OnlineFeed_Check" x:Name="OnlineFeed">Custom feed Online?</CheckBox>
+                </StackPanel>
+                <DockPanel x:Name="customfeed" Margin="10" LastChildFill="true">
+                    <Button x:Name="DurchsuchenButton" Click="DurchsuchenButton_Click" DockPanel.Dock="Right" Content="Durchsuchen"/>
+                    <TextBox TextChanged="PathBox_TextChanged" x:Name="PathBox"/>
+                </DockPanel>
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Page>

@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vp>
+  <kopf>
+    <datei>aktueller Vetretungsplsn.xml</datei>
+    <titel>Montag, 4. Oktober 2021 (A-Woche) </titel>
+    <schulname></schulname>
+    <datum>01.10.2021, 11:07</datum>
+    <kopfinfo>
+      <abwesendl>ES, PR</abwesendl>
+      <aenderungl>EE, HP, HÜ, LS, ME, PP, PR, RA, SK</aenderungl>
+      <aenderungk>06b, 06c, 07c, 10a, 10b, 10c, 12, 8b, 9d</aenderungk>
+    </kopfinfo>
+  </kopf>
+  <freietage>
+    <ft>210901</ft>
+    <ft>210902</ft>
+    <ft>210903</ft>
+    <ft>211018</ft>
+    <ft>211019</ft>
+    <ft>211020</ft>
+    <ft>211021</ft>
+    <ft>211022</ft>
+    <ft>211025</ft>
+    <ft>211026</ft>
+    <ft>211027</ft>
+    <ft>211028</ft>
+    <ft>211029</ft>
+    <ft>211117</ft>
+    <ft>211206</ft>
+    <ft>211223</ft>
+    <ft>211224</ft>
+    <ft>211227</ft>
+    <ft>211228</ft>
+    <ft>211229</ft>
+    <ft>211230</ft>
+    <ft>211231</ft>
+    <ft>220214</ft>
+    <ft>220215</ft>
+    <ft>220216</ft>
+    <ft>220217</ft>
+    <ft>220218</ft>
+    <ft>220221</ft>
+    <ft>220222</ft>
+    <ft>220223</ft>
+    <ft>220224</ft>
+    <ft>220225</ft>
+    <ft>220415</ft>
+    <ft>220418</ft>
+    <ft>220419</ft>
+    <ft>220420</ft>
+    <ft>220421</ft>
+    <ft>220422</ft>
+    <ft>220526</ft>
+    <ft>220527</ft>
+    <ft>220606</ft>
+    <ft>220718</ft>
+    <ft>220719</ft>
+    <ft>220720</ft>
+    <ft>220721</ft>
+    <ft>220722</ft>
+    <ft>220725</ft>
+    <ft>220726</ft>
+    <ft>220727</ft>
+    <ft>220728</ft>
+    <ft>220729</ft>
+    <ft>220801</ft>
+    <ft>220802</ft>
+    <ft>220803</ft>
+    <ft>220804</ft>
+    <ft>220805</ft>
+    <ft>220808</ft>
+    <ft>220809</ft>
+    <ft>220810</ft>
+    <ft>220811</ft>
+    <ft>220812</ft>
+    <ft>220815</ft>
+    <ft>220816</ft>
+    <ft>220817</ft>
+    <ft>220818</ft>
+    <ft>220819</ft>
+    <ft>220822</ft>
+    <ft>220823</ft>
+    <ft>220824</ft>
+    <ft>220825</ft>
+    <ft>220826</ft>
+    <ft>220829</ft>
+    <ft>220830</ft>
+    <ft>220831</ft>
+    <ft>210901</ft>
+    <ft>210902</ft>
+    <ft>210903</ft>
+    <ft>211018</ft>
+    <ft>211019</ft>
+    <ft>211020</ft>
+    <ft>211021</ft>
+    <ft>211022</ft>
+    <ft>211025</ft>
+    <ft>211026</ft>
+    <ft>211027</ft>
+    <ft>211028</ft>
+    <ft>211029</ft>
+    <ft>211117</ft>
+    <ft>211206</ft>
+    <ft>211223</ft>
+    <ft>211224</ft>
+    <ft>211227</ft>
+    <ft>211228</ft>
+    <ft>211229</ft>
+    <ft>211230</ft>
+    <ft>211231</ft>
+    <ft>220214</ft>
+    <ft>220215</ft>
+    <ft>220216</ft>
+    <ft>220217</ft>
+    <ft>220218</ft>
+    <ft>220221</ft>
+    <ft>220222</ft>
+    <ft>220223</ft>
+    <ft>220224</ft>
+    <ft>220225</ft>
+    <ft>220415</ft>
+    <ft>220418</ft>
+    <ft>220419</ft>
+    <ft>220420</ft>
+    <ft>220421</ft>
+    <ft>220422</ft>
+    <ft>220526</ft>
+    <ft>220527</ft>
+    <ft>220606</ft>
+    <ft>220718</ft>
+    <ft>220719</ft>
+    <ft>220720</ft>
+    <ft>220721</ft>
+    <ft>220722</ft>
+    <ft>220725</ft>
+    <ft>220726</ft>
+    <ft>220727</ft>
+    <ft>220728</ft>
+    <ft>220729</ft>
+    <ft>220801</ft>
+    <ft>220802</ft>
+    <ft>220803</ft>
+    <ft>220804</ft>
+    <ft>220805</ft>
+    <ft>220808</ft>
+    <ft>220809</ft>
+    <ft>220810</ft>
+    <ft>220811</ft>
+    <ft>220812</ft>
+    <ft>220815</ft>
+    <ft>220816</ft>
+    <ft>220817</ft>
+    <ft>220818</ft>
+    <ft>220819</ft>
+    <ft>220822</ft>
+    <ft>220823</ft>
+    <ft>220824</ft>
+    <ft>220825</ft>
+    <ft>220826</ft>
+    <ft>220829</ft>
+    <ft>220830</ft>
+    <ft>220831</ft>
+    <ft>210901</ft>
+    <ft>210902</ft>
+    <ft>210903</ft>
+    <ft>211018</ft>
+    <ft>211019</ft>
+    <ft>211020</ft>
+    <ft>211021</ft>
+    <ft>211022</ft>
+    <ft>211025</ft>
+    <ft>211026</ft>
+    <ft>211027</ft>
+    <ft>211028</ft>
+    <ft>211029</ft>
+    <ft>211117</ft>
+    <ft>211206</ft>
+    <ft>211223</ft>
+    <ft>211224</ft>
+    <ft>211227</ft>
+    <ft>211228</ft>
+    <ft>211229</ft>
+    <ft>211230</ft>
+    <ft>211231</ft>
+    <ft>220214</ft>
+    <ft>220215</ft>
+    <ft>220216</ft>
+    <ft>220217</ft>
+    <ft>220218</ft>
+    <ft>220221</ft>
+    <ft>220222</ft>
+    <ft>220223</ft>
+    <ft>220224</ft>
+    <ft>220225</ft>
+    <ft>220415</ft>
+    <ft>220418</ft>
+    <ft>220419</ft>
+    <ft>220420</ft>
+    <ft>220421</ft>
+    <ft>220422</ft>
+    <ft>220526</ft>
+    <ft>220527</ft>
+    <ft>220606</ft>
+    <ft>220718</ft>
+    <ft>220719</ft>
+    <ft>220720</ft>
+    <ft>220721</ft>
+    <ft>220722</ft>
+    <ft>220725</ft>
+    <ft>220726</ft>
+    <ft>220727</ft>
+    <ft>220728</ft>
+    <ft>220729</ft>
+    <ft>220801</ft>
+    <ft>220802</ft>
+    <ft>220803</ft>
+    <ft>220804</ft>
+    <ft>220805</ft>
+    <ft>220808</ft>
+    <ft>220809</ft>
+    <ft>220810</ft>
+    <ft>220811</ft>
+    <ft>220812</ft>
+    <ft>220815</ft>
+    <ft>220816</ft>
+    <ft>220817</ft>
+    <ft>220818</ft>
+    <ft>220819</ft>
+    <ft>220822</ft>
+    <ft>220823</ft>
+    <ft>220824</ft>
+    <ft>220825</ft>
+    <ft>220826</ft>
+    <ft>220829</ft>
+    <ft>220830</ft>
+    <ft>220831</ft>
+    <ft>210901</ft>
+    <ft>210902</ft>
+    <ft>210903</ft>
+    <ft>211018</ft>
+    <ft>211019</ft>
+    <ft>211020</ft>
+    <ft>211021</ft>
+    <ft>211022</ft>
+    <ft>211025</ft>
+    <ft>211026</ft>
+    <ft>211027</ft>
+    <ft>211028</ft>
+    <ft>211029</ft>
+    <ft>211117</ft>
+    <ft>211206</ft>
+    <ft>211223</ft>
+    <ft>211224</ft>
+    <ft>211227</ft>
+    <ft>211228</ft>
+    <ft>211229</ft>
+    <ft>211230</ft>
+    <ft>211231</ft>
+    <ft>220214</ft>
+    <ft>220215</ft>
+    <ft>220216</ft>
+    <ft>220217</ft>
+    <ft>220218</ft>
+    <ft>220221</ft>
+    <ft>220222</ft>
+    <ft>220223</ft>
+    <ft>220224</ft>
+    <ft>220225</ft>
+    <ft>220415</ft>
+    <ft>220418</ft>
+    <ft>220419</ft>
+    <ft>220420</ft>
+    <ft>220421</ft>
+    <ft>220422</ft>
+    <ft>220526</ft>
+    <ft>220527</ft>
+    <ft>220606</ft>
+    <ft>220718</ft>
+    <ft>220719</ft>
+    <ft>220720</ft>
+    <ft>220721</ft>
+    <ft>220722</ft>
+    <ft>220725</ft>
+    <ft>220726</ft>
+    <ft>220727</ft>
+    <ft>220728</ft>
+    <ft>220729</ft>
+    <ft>220801</ft>
+    <ft>220802</ft>
+    <ft>220803</ft>
+    <ft>220804</ft>
+    <ft>220805</ft>
+    <ft>220808</ft>
+    <ft>220809</ft>
+    <ft>220810</ft>
+    <ft>220811</ft>
+    <ft>220812</ft>
+    <ft>220815</ft>
+    <ft>220816</ft>
+    <ft>220817</ft>
+    <ft>220818</ft>
+    <ft>220819</ft>
+    <ft>220822</ft>
+    <ft>220823</ft>
+    <ft>220824</ft>
+    <ft>220825</ft>
+    <ft>220826</ft>
+    <ft>220829</ft>
+    <ft>220830</ft>
+    <ft>220831</ft>
+    <ft>210901</ft>
+    <ft>210902</ft>
+    <ft>210903</ft>
+    <ft>211018</ft>
+    <ft>211019</ft>
+    <ft>211020</ft>
+    <ft>211021</ft>
+    <ft>211022</ft>
+    <ft>211025</ft>
+    <ft>211026</ft>
+    <ft>211027</ft>
+    <ft>211028</ft>
+    <ft>211029</ft>
+    <ft>211117</ft>
+    <ft>211206</ft>
+    <ft>211223</ft>
+    <ft>211224</ft>
+    <ft>211227</ft>
+    <ft>211228</ft>
+    <ft>211229</ft>
+    <ft>211230</ft>
+    <ft>211231</ft>
+    <ft>220214</ft>
+    <ft>220215</ft>
+    <ft>220216</ft>
+    <ft>220217</ft>
+    <ft>220218</ft>
+    <ft>220221</ft>
+    <ft>220222</ft>
+    <ft>220223</ft>
+    <ft>220224</ft>
+    <ft>220225</ft>
+    <ft>220415</ft>
+    <ft>220418</ft>
+    <ft>220419</ft>
+    <ft>220420</ft>
+    <ft>220421</ft>
+    <ft>220422</ft>
+    <ft>220526</ft>
+    <ft>220527</ft>
+    <ft>220606</ft>
+    <ft>220718</ft>
+    <ft>220719</ft>
+    <ft>220720</ft>
+    <ft>220721</ft>
+    <ft>220722</ft>
+    <ft>220725</ft>
+    <ft>220726</ft>
+    <ft>220727</ft>
+    <ft>220728</ft>
+    <ft>220729</ft>
+    <ft>220801</ft>
+    <ft>220802</ft>
+    <ft>220803</ft>
+    <ft>220804</ft>
+    <ft>220805</ft>
+    <ft>220808</ft>
+    <ft>220809</ft>
+    <ft>220810</ft>
+    <ft>220811</ft>
+    <ft>220812</ft>
+    <ft>220815</ft>
+    <ft>220816</ft>
+    <ft>220817</ft>
+    <ft>220818</ft>
+    <ft>220819</ft>
+    <ft>220822</ft>
+    <ft>220823</ft>
+    <ft>220824</ft>
+    <ft>220825</ft>
+    <ft>220826</ft>
+    <ft>220829</ft>
+    <ft>220830</ft>
+    <ft>220831</ft>
+  </freietage>
+  <haupt>
+    <aktion>
+      <klasse>06b</klasse>
+      <stunde>1</stunde>
+      <fach fageaendert="ae">GEO</fach>
+      <lehrer legeaendert="ae">PP</lehrer>
+      <raum>1.05</raum>
+      <info>für KU SK </info>
+    </aktion>
+    <aktion>
+      <klasse>06c</klasse>
+      <stunde>1</stunde>
+      <fach fageaendert="ae">EN</fach>
+      <lehrer legeaendert="ae">ME</lehrer>
+      <raum rageaendert="ae">1.11</raum>
+      <info>für KU PR </info>
+    </aktion>
+    <aktion>
+      <klasse>07c</klasse>
+      <stunde>2</stunde>
+      <fach>EN</fach>
+      <lehrer>HP</lehrer>
+      <raum rageaendert="ae">2.16</raum>
+      <info>statt Do (14.10.) St.7; KU PR fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>8b</klasse>
+      <stunde>1</stunde>
+      <fach>GEO</fach>
+      <lehrer>RA</lehrer>
+      <raum>1.12</raum>
+      <info></info>
+    </aktion>
+    <aktion>
+      <klasse>9d</klasse>
+      <stunde>6</stunde>
+      <fach>MA</fach>
+      <lehrer legeaendert="ae">HÜ</lehrer>
+      <raum>2.26</raum>
+      <info>für MA LS </info>
+    </aktion>
+    <aktion>
+      <klasse>10a-10c</klasse>
+      <stunde>6</stunde>
+      <fach>RU</fach>
+      <lehrer legeaendert="ae">(PR)</lehrer>
+      <raum>3.12</raum>
+      <info>Aufgabenstellung PR</info>
+    </aktion>
+    <aktion>
+      <klasse>10b</klasse>
+      <stunde>3-4</stunde>
+      <fach>DE</fach>
+      <lehrer legeaendert="ae">(PR)</lehrer>
+      <raum>2.25</raum>
+      <info>Aufgabenstellung PR</info>
+    </aktion>
+    <aktion>
+      <klasse>12/ DE1</klasse>
+      <stunde>1-2</stunde>
+      <fach fageaendert="ae">DE</fach>
+      <lehrer legeaendert="ae">EE</lehrer>
+      <raum rageaendert="ae">3.12</raum>
+      <info>Klausur</info>
+    </aktion>
+    <aktion>
+      <klasse>12/ DE3</klasse>
+      <stunde>1-2</stunde>
+      <fach fageaendert="ae">DE</fach>
+      <lehrer legeaendert="ae">SK</lehrer>
+      <raum rageaendert="ae">3.23</raum>
+      <info>Klausur</info>
+    </aktion>
+    <aktion>
+      <klasse>12/ DE1</klasse>
+      <stunde>3-4</stunde>
+      <fach>DE</fach>
+      <lehrer>EE</lehrer>
+      <raum>3.12</raum>
+      <info>Klausur</info>
+    </aktion>
+    <aktion>
+      <klasse>12/ DE3</klasse>
+      <stunde>3-4</stunde>
+      <fach>DE</fach>
+      <lehrer>SK</lehrer>
+      <raum rageaendert="ae">3.23</raum>
+      <info>Klausur</info>
+    </aktion>
+  </haupt>
+  <kopf>
+    <datei>aktueller Vetretungsplsn.xml</datei>
+    <titel>Dienstag, 5. Oktober 2021 (A-Woche) </titel>
+    <schulname></schulname>
+    <datum>01.10.2021, 11:07</datum>
+    <kopfinfo>
+      <abwesendl>ES, HN (3-8), ME, RW, SH (6-8), SR</abwesendl>
+      <aenderungl>BE, FP, HP, HS, KF, MB, NG, RA, RN, RO, ST, WA, WL</aenderungl>
+      <aenderungk>05a, 05b, 05c, 06a, 06b, 06c, 07a, 07b, 07c, 10a, 10b, 10c, 11, 12, 8a, 8b, 8c, 8d, 9a, 9c, 9d</aenderungk>
+    </kopfinfo>
+  </kopf>
+  <aufsichten>
+    <aufsichtzeile>
+      <aufsichtinfo>07:15:  Morgens1 - Eingang  --&gt;  RN (für SR)</aufsichtinfo>
+    </aufsichtzeile>
+    <aufsichtzeile>
+      <aufsichtinfo>10:55:  Vormittag - uKS  --&gt;  KF (für RW)</aufsichtinfo>
+    </aufsichtzeile>
+  </aufsichten>
+  <haupt>
+    <aktion>
+      <klasse>05a-05c</klasse>
+      <stunde>6</stunde>
+      <fach>REe</fach>
+      <lehrer legeaendert="ae">RN</lehrer>
+      <raum>1.14</raum>
+      <info>für REe RW , Aufgabenstellung,siehe Lernsax, Aufsicht RN</info>
+    </aktion>
+    <aktion>
+      <klasse>05c</klasse>
+      <stunde>1</stunde>
+      <fach>BIO</fach>
+      <lehrer legeaendert="ae">BE</lehrer>
+      <raum>1.23</raum>
+      <info>für BIO ES </info>
+    </aktion>
+    <aktion>
+      <klasse>05c</klasse>
+      <stunde>3</stunde>
+      <fach fageaendert="ae">GE</fach>
+      <lehrer legeaendert="ae">HP</lehrer>
+      <raum rageaendert="ae">1.23</raum>
+      <info>für S SR </info>
+    </aktion>
+    <aktion>
+      <klasse>05c</klasse>
+      <stunde>4</stunde>
+      <fach fageaendert="ae">GEO</fach>
+      <lehrer legeaendert="ae">FP</lehrer>
+      <raum rageaendert="ae">1.23</raum>
+      <info>für S SR </info>
+    </aktion>
+    <aktion>
+      <klasse>06a-06c/ Re2</klasse>
+      <stunde>4</stunde>
+      <fach>REe</fach>
+      <lehrer legeaendert="ae">KF</lehrer>
+      <raum>1.11</raum>
+      <info>für REe RW , Aufgabenstellung,siehe Lernsax, Aufsicht KF</info>
+    </aktion>
+    <aktion>
+      <klasse>07a-07c/ Re2</klasse>
+      <stunde>5</stunde>
+      <fach>REe</fach>
+      <lehrer legeaendert="ae">(RW)</lehrer>
+      <raum>2.24</raum>
+      <info>Aufgabenstellung,siehe Lernsax, Aufsicht RL, Zi. 2.25</info>
+    </aktion>
+    <aktion>
+      <klasse>07a</klasse>
+      <stunde>7-8</stunde>
+      <fach fageaendert="ae">---</fach>
+      <lehrer legeaendert="ae"></lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>S ME fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>07b</klasse>
+      <stunde>1</stunde>
+      <fach fageaendert="ae">DE</fach>
+      <lehrer legeaendert="ae">RA</lehrer>
+      <raum>3.13</raum>
+      <info>für GRW SR </info>
+    </aktion>
+    <aktion>
+      <klasse>8a-8d</klasse>
+      <stunde>2</stunde>
+      <fach>REe</fach>
+      <lehrer legeaendert="ae">(RW)</lehrer>
+      <raum>2.11</raum>
+      <info>Aufgabenstellung,siehe Lernsax, Aufsicht ST (2.13)</info>
+    </aktion>
+    <aktion>
+      <klasse>8a-8d/ FR2</klasse>
+      <stunde>7-8</stunde>
+      <fach fageaendert="ae">---</fach>
+      <lehrer legeaendert="ae"></lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>FR2 RO fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>8b</klasse>
+      <stunde>4</stunde>
+      <fach fageaendert="ae">DE</fach>
+      <lehrer legeaendert="ae">MB</lehrer>
+      <raum rageaendert="ae">3.25</raum>
+      <info>für MU NG </info>
+    </aktion>
+    <aktion>
+      <klasse>8d</klasse>
+      <stunde>3</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">WA</lehrer>
+      <raum>2.04</raum>
+      <info>für CH ES , Unterricht, 4. St. selbstständig Unterricht</info>
+    </aktion>
+    <aktion>
+      <klasse>8d</klasse>
+      <stunde>4</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">(ES)</lehrer>
+      <raum>2.04</raum>
+      <info>4. St. selbstständig Unterricht</info>
+    </aktion>
+    <aktion>
+      <klasse>9a,9c,9d</klasse>
+      <stunde>3</stunde>
+      <fach>REe</fach>
+      <lehrer legeaendert="ae">(RW)</lehrer>
+      <raum>1.11</raum>
+      <info>Aufgabenstellung,siehe Lernsax</info>
+    </aktion>
+    <aktion>
+      <klasse>9a</klasse>
+      <stunde>4</stunde>
+      <fach>GE</fach>
+      <lehrer>HS</lehrer>
+      <raum rageaendert="ae">3.14</raum>
+      <info>statt Do (07.10.) St.7; EN ME fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>9a,9c,9d</klasse>
+      <stunde>7-8</stunde>
+      <fach fageaendert="ae">---</fach>
+      <lehrer legeaendert="ae"></lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>PR WA fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>9a,9c,9d</klasse>
+      <stunde>7-8</stunde>
+      <fach fageaendert="ae">---</fach>
+      <lehrer legeaendert="ae"></lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>PR WL fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>10a-10c/ RE2</klasse>
+      <stunde>7-8</stunde>
+      <fach>REe</fach>
+      <lehrer legeaendert="ae">(RW)</lehrer>
+      <raum rageaendert="ae"> </raum>
+      <info>Hausaufgabenstellung, siehe Lernsax</info>
+    </aktion>
+    <aktion>
+      <klasse>10c</klasse>
+      <stunde>5-6</stunde>
+      <fach>S</fach>
+      <lehrer legeaendert="ae">RO</lehrer>
+      <raum>NT2</raum>
+      <info>für S ME </info>
+    </aktion>
+    <aktion>
+      <klasse>11/ bio1</klasse>
+      <stunde>5-6</stunde>
+      <fach>BIO</fach>
+      <lehrer legeaendert="ae">(ES)</lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>Schüler nehmen am Unterricht von HN (Aufgabenstellung) oder NV teil (2.11/2.13)</info>
+    </aktion>
+    <aktion>
+      <klasse>11/ bio2</klasse>
+      <stunde>5-6</stunde>
+      <fach>BIO</fach>
+      <lehrer legeaendert="ae">(HN)</lehrer>
+      <raum>2.13</raum>
+      <info>Aufgabenstellung</info>
+    </aktion>
+    <aktion>
+      <klasse>12/ en1</klasse>
+      <stunde>1-2</stunde>
+      <fach>EN</fach>
+      <lehrer legeaendert="ae">(ME)</lehrer>
+      <raum>HS</raum>
+      <info>Hausaufgabenstellung</info>
+    </aktion>
+  </haupt>
+  <kopf>
+    <datei>aktueller Vetretungsplsn.xml</datei>
+    <titel>Mittwoch, 6. Oktober 2021 (A-Woche) </titel>
+    <schulname></schulname>
+    <datum>01.10.2021, 11:07</datum>
+    <kopfinfo>
+      <abwesendl>ES, HA</abwesendl>
+      <aenderungl>EI, HP, HÜ, KF, LS, MD, OE, SE, WA, WE</aenderungl>
+      <aenderungk>06a, 11, 12, 8c, 9c</aenderungk>
+    </kopfinfo>
+  </kopf>
+  <aufsichten>
+    <aufsichtzeile>
+      <aufsichtinfo>07:15:  Morgens1 - mittl.Kor  --&gt;  HP (für ES)</aufsichtinfo>
+    </aufsichtzeile>
+  </aufsichten>
+  <haupt>
+    <aktion>
+      <klasse>06a/ TC2</klasse>
+      <stunde>1-2</stunde>
+      <fach>TC</fach>
+      <lehrer legeaendert="ae">(HÜ)</lehrer>
+      <raum>2.15</raum>
+      <info>alle Schüler haben TC bei MS</info>
+    </aktion>
+    <aktion>
+      <klasse>8c</klasse>
+      <stunde>3</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">WA</lehrer>
+      <raum>2.04</raum>
+      <info>für CH ES </info>
+    </aktion>
+    <aktion>
+      <klasse>8c</klasse>
+      <stunde>4</stunde>
+      <fach>EN</fach>
+      <lehrer>KF</lehrer>
+      <raum rageaendert="ae">2.26</raum>
+      <info></info>
+    </aktion>
+    <aktion>
+      <klasse>9c</klasse>
+      <stunde>1</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">LS</lehrer>
+      <raum>2.04</raum>
+      <info>für CH ES , Unterricht, 2. St. Unterricht selbstständig</info>
+    </aktion>
+    <aktion>
+      <klasse>9c</klasse>
+      <stunde>2</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">(ES)</lehrer>
+      <raum>2.04</raum>
+      <info>2. St. Unterricht selbstständig</info>
+    </aktion>
+    <aktion>
+      <klasse>11/ DE2 DE1</klasse>
+      <stunde>1-2</stunde>
+      <fach fageaendert="ae">DE</fach>
+      <lehrer legeaendert="ae">SE</lehrer>
+      <raum rageaendert="ae">HS</raum>
+      <info>Klausur (Kurs DE1 MD zusammen mit Kurs DE2 SE im Hörsaal)</info>
+    </aktion>
+    <aktion>
+      <klasse>11/ DE3</klasse>
+      <stunde>1-2</stunde>
+      <fach fageaendert="ae">DE</fach>
+      <lehrer legeaendert="ae">WE</lehrer>
+      <raum rageaendert="ae">3.23</raum>
+      <info>Klausur</info>
+    </aktion>
+    <aktion>
+      <klasse>11/ DE2</klasse>
+      <stunde>3-4</stunde>
+      <fach>DE</fach>
+      <lehrer legeaendert="ae">MD</lehrer>
+      <raum rageaendert="ae">HS</raum>
+      <info>für DE SE , Klausur</info>
+    </aktion>
+    <aktion>
+      <klasse>11/ MA1</klasse>
+      <stunde>3-4</stunde>
+      <fach>MA</fach>
+      <lehrer>LS</lehrer>
+      <raum rageaendert="ae">2.24</raum>
+      <info></info>
+    </aktion>
+    <aktion>
+      <klasse>11/ DE3</klasse>
+      <stunde>3-4</stunde>
+      <fach>DE</fach>
+      <lehrer>WE</lehrer>
+      <raum>3.23</raum>
+      <info>Klausur</info>
+    </aktion>
+    <aktion>
+      <klasse>11/ DE1</klasse>
+      <stunde>3</stunde>
+      <fach>DE</fach>
+      <lehrer legeaendert="ae">(MD)</lehrer>
+      <raum rageaendert="ae"> </raum>
+      <info>Klausur im Hörsaal zusammen mit Kurs von SE</info>
+    </aktion>
+    <aktion>
+      <klasse>11/ DE1</klasse>
+      <stunde>4</stunde>
+      <fach>DE</fach>
+      <lehrer legeaendert="ae">(MD)</lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>Klausur im Hörsaal zusammen mit Kurs von SE</info>
+    </aktion>
+    <aktion>
+      <klasse>12/ en2</klasse>
+      <stunde>1-2</stunde>
+      <fach>EN</fach>
+      <lehrer>OE</lehrer>
+      <raum rageaendert="ae">2.24</raum>
+      <info></info>
+    </aktion>
+    <aktion>
+      <klasse>12/ geo2</klasse>
+      <stunde>1-2</stunde>
+      <fach>GEO</fach>
+      <lehrer>EI</lehrer>
+      <raum rageaendert="ae">2.25</raum>
+      <info></info>
+    </aktion>
+  </haupt>
+  <kopf>
+    <datei>aktueller Vetretungsplsn.xml</datei>
+    <titel>Donnerstag, 7. Oktober 2021 (A-Woche) </titel>
+    <schulname></schulname>
+    <datum>01.10.2021, 11:07</datum>
+    <kopfinfo>
+      <abwesendl>ES, HA, MB</abwesendl>
+      <aenderungl>HS, LS, ME, ST, WA</aenderungl>
+      <aenderungk>05c, 07b, 10a, 12, 8b, 9a, 9c, 9d</aenderungk>
+    </kopfinfo>
+  </kopf>
+  <haupt>
+    <aktion>
+      <klasse>05c</klasse>
+      <stunde>1-2</stunde>
+      <fach>BIO</fach>
+      <lehrer legeaendert="ae">ST</lehrer>
+      <raum>2.13</raum>
+      <info>für BIO ES </info>
+    </aktion>
+    <aktion>
+      <klasse>07b</klasse>
+      <stunde>7-8</stunde>
+      <fach fageaendert="ae">---</fach>
+      <lehrer legeaendert="ae"></lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>KU MB fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>8b</klasse>
+      <stunde>3</stunde>
+      <fach fageaendert="ae">GE</fach>
+      <lehrer legeaendert="ae">HS</lehrer>
+      <raum rageaendert="ae">2.24</raum>
+      <info>für DE MB </info>
+    </aktion>
+    <aktion>
+      <klasse>9a</klasse>
+      <stunde>6</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">(ES)</lehrer>
+      <raum>2.04</raum>
+      <info>Hausaufgabenstellung, ME</info>
+    </aktion>
+    <aktion>
+      <klasse>9a</klasse>
+      <stunde>7</stunde>
+      <fach>---</fach>
+      <lehrer></lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>GE HS gehalten am Di (05.10.) St.4</info>
+    </aktion>
+    <aktion>
+      <klasse>9a</klasse>
+      <stunde>8</stunde>
+      <fach>GE</fach>
+      <lehrer legeaendert="ae">(HS)</lehrer>
+      <raum rageaendert="ae"> </raum>
+      <info>Hausaufgabenstellung</info>
+    </aktion>
+    <aktion>
+      <klasse>9c</klasse>
+      <stunde>4</stunde>
+      <fach>BIO</fach>
+      <lehrer>WA</lehrer>
+      <raum rageaendert="ae">2.16</raum>
+      <info>verlegt von St.7; KU MB fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>9c</klasse>
+      <stunde>7</stunde>
+      <fach>---</fach>
+      <lehrer></lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>BIO WA verlegt nach St.4</info>
+    </aktion>
+    <aktion>
+      <klasse>9c</klasse>
+      <stunde>8</stunde>
+      <fach>BIO</fach>
+      <lehrer legeaendert="ae">(WA)</lehrer>
+      <raum>2.11</raum>
+      <info>Hausaufgabenstellung</info>
+    </aktion>
+    <aktion>
+      <klasse>9d</klasse>
+      <stunde>7</stunde>
+      <fach fageaendert="ae">---</fach>
+      <lehrer legeaendert="ae"></lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>CH ES fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>9d</klasse>
+      <stunde>8</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">(ES)</lehrer>
+      <raum>2.04</raum>
+      <info>Hausaufgabenstellung</info>
+    </aktion>
+    <aktion>
+      <klasse>10a</klasse>
+      <stunde>3</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">(ES)</lehrer>
+      <raum>2.04</raum>
+      <info>Aufgabenstellung LS, Unterricht dazu in der 4. St.</info>
+    </aktion>
+    <aktion>
+      <klasse>10a</klasse>
+      <stunde>4</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">LS</lehrer>
+      <raum>2.04</raum>
+      <info>für CH ES , Aufgabenstellung LS, Unterricht dazu in der 4. St.</info>
+    </aktion>
+    <aktion>
+      <klasse>12/ KU1</klasse>
+      <stunde>5-6</stunde>
+      <fach>KU</fach>
+      <lehrer legeaendert="ae">(MB)</lehrer>
+      <raum>4.01</raum>
+      <info>Aufgabenstellung</info>
+    </aktion>
+  </haupt>
+  <kopf>
+    <datei>aktueller Vetretungsplsn.xml</datei>
+    <titel>Freitag, 8. Oktober 2021 (A-Woche) </titel>
+    <schulname></schulname>
+    <datum>01.10.2021, 11:07</datum>
+    <kopfinfo>
+      <abwesendl>ES, HA</abwesendl>
+      <aenderungl>HN, HÜ, LS, MS, PP, PR, WL</aenderungl>
+      <aenderungk>06b, 06c, 07a, 10c, 11, 12, 8c, 9a, 9d</aenderungk>
+    </kopfinfo>
+  </kopf>
+  <haupt>
+    <aktion>
+      <klasse>06b</klasse>
+      <stunde>1-2</stunde>
+      <fach>DE</fach>
+      <lehrer>WL</lehrer>
+      <raum>1.24</raum>
+      <info>Unterricht findet statt, Aufsicht HC</info>
+    </aktion>
+    <aktion>
+      <klasse>06c/ TC2</klasse>
+      <stunde>1-2</stunde>
+      <fach>TC</fach>
+      <lehrer legeaendert="ae">(HÜ)</lehrer>
+      <raum>2.14</raum>
+      <info>alle Schüler haben TC bei MS</info>
+    </aktion>
+    <aktion>
+      <klasse>06c/ TC1</klasse>
+      <stunde>1-2</stunde>
+      <fach>TC</fach>
+      <lehrer>MS</lehrer>
+      <raum rageaendert="ae">2.15</raum>
+      <info>alle Schüler haben TC bei MS</info>
+    </aktion>
+    <aktion>
+      <klasse>07a</klasse>
+      <stunde>3</stunde>
+      <fach>KU</fach>
+      <lehrer>PR</lehrer>
+      <raum rageaendert="ae">1.05</raum>
+      <info>verlegt von St.4; CH ES fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>07a</klasse>
+      <stunde>4</stunde>
+      <fach fageaendert="ae">CH</fach>
+      <lehrer legeaendert="ae">HÜ</lehrer>
+      <raum rageaendert="ae">2.26</raum>
+      <info>KU PR verlegt nach St.3</info>
+    </aktion>
+    <aktion>
+      <klasse>8c/ Inf3</klasse>
+      <stunde>4</stunde>
+      <fach>INF</fach>
+      <lehrer>MS</lehrer>
+      <raum>2.14</raum>
+      <info>verlegt von St.5, Hausaufgabenstunde in der 5. St.; CH ES fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>8c/ Inf3</klasse>
+      <stunde>5</stunde>
+      <fach>---</fach>
+      <lehrer></lehrer>
+      <raum></raum>
+      <info>INF MS verlegt nach St.4, Hausaufgabenstunde in der 5. St.</info>
+    </aktion>
+    <aktion>
+      <klasse>9a</klasse>
+      <stunde>5</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">LS</lehrer>
+      <raum>2.04</raum>
+      <info>für CH ES </info>
+    </aktion>
+    <aktion>
+      <klasse>9d</klasse>
+      <stunde>5</stunde>
+      <fach>MA</fach>
+      <lehrer legeaendert="ae">HÜ</lehrer>
+      <raum>2.24</raum>
+      <info>für MA LS </info>
+    </aktion>
+    <aktion>
+      <klasse>10c</klasse>
+      <stunde>1-2</stunde>
+      <fach>CH</fach>
+      <lehrer legeaendert="ae">HN</lehrer>
+      <raum>2.04</raum>
+      <info>für CH ES </info>
+    </aktion>
+    <aktion>
+      <klasse>11/ eth2</klasse>
+      <stunde>4-5</stunde>
+      <fach fageaendert="ae">---</fach>
+      <lehrer legeaendert="ae"></lehrer>
+      <raum rageaendert="ae"></raum>
+      <info>eth2 HA fällt aus</info>
+    </aktion>
+    <aktion>
+      <klasse>12/ de1</klasse>
+      <stunde>1-2</stunde>
+      <fach fageaendert="ae">DE</fach>
+      <lehrer legeaendert="ae">WL</lehrer>
+      <raum rageaendert="ae">3.26</raum>
+      <info>Klausur</info>
+    </aktion>
+    <aktion>
+      <klasse>12/ ma1</klasse>
+      <stunde>3-4</stunde>
+      <fach>MA</fach>
+      <lehrer>PP</lehrer>
+      <raum rageaendert="ae">1.23</raum>
+      <info></info>
+    </aktion>
+    <aktion>
+      <klasse>12/ de1</klasse>
+      <stunde>3-4</stunde>
+      <fach>DE</fach>
+      <lehrer>WL</lehrer>
+      <raum rageaendert="ae">3.26</raum>
+      <info>Klausur</info>
+    </aktion>
+  </haupt>
+</vp>

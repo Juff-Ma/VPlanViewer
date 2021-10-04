@@ -1,0 +1,85 @@
+﻿<Page x:Class="VPLanViewer.Home"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:VPLanViewer"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Home">
+
+    <DockPanel LastChildFill="True">
+        <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" VerticalAlignment="Top" HorizontalAlignment="Center">
+            <Button x:Name="settings" Margin="10,0" Click="settings_Click" HorizontalAlignment="Center">Einstellungen</Button>
+            <Button x:Name="refresh" Margin="10,0" Click="refresh_Click" HorizontalAlignment="Center">Neu laden</Button>
+            <Button x:Name="infos" Margin="10,0" Click="infos_Click" HorizontalAlignment="Center">Freie Tage</Button>
+        </StackPanel>
+        <Border DockPanel.Dock="Top" Height="3" Background="Black"/>
+        <ComboBox SelectionChanged="tage_SelectionChanged" x:Name="tage" Loaded="tage_Loaded" DockPanel.Dock="Top">
+            
+        </ComboBox>
+
+        <TabControl DockPanel.Dock="Top">
+            <TabItem Header="Info">
+                <ScrollViewer>
+                    <StackPanel>
+                        <DockPanel LastChildFill="true">
+                            <Label FontSize="17">Aktualisiert:</Label>
+                            <Label x:Name="Datum" VerticalAlignment="Center"></Label>
+                        </DockPanel>
+                        <DockPanel LastChildFill="true">
+                            <Label FontSize="17">Abwesende Lehrer:</Label>
+                            <Label x:Name="ALehrer" VerticalAlignment="Center"></Label>
+                        </DockPanel>
+                        <DockPanel LastChildFill="true">
+                            <Label FontSize="17">Lehrer mit Änderungen:</Label>
+                            <Label x:Name="LmitAe" VerticalAlignment="Center"></Label>
+                        </DockPanel>
+                        <DockPanel LastChildFill="true">
+                            <Label FontSize="17">Klassen mit Änderungen:</Label>
+                            <Label x:Name="KmitAe" VerticalAlignment="Center"></Label>
+                        </DockPanel>
+                        <StackPanel>
+                            <Label FontSize="17">Gäenderte aufsichten:</Label>
+                            <StackPanel x:Name="GeAufs"></StackPanel>
+                        </StackPanel>
+                        <StackPanel>
+                            <Label FontSize="17">Zusätzliche Informationen:</Label>
+                            <StackPanel x:Name="ZuInfos"></StackPanel>
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+            <TabItem Header="Änderungen">
+                <ScrollViewer VerticalScrollBarVisibility="Visible">
+                    <DockPanel>
+                        <StackPanel>
+                            <Label BorderThickness="2" BorderBrush="Black">Klasse/Kurs</Label>
+                            <StackPanel x:Name="Klasse"></StackPanel>
+                        </StackPanel>
+                        <StackPanel>
+                            <Label BorderThickness="2" BorderBrush="Black">Stunde</Label>
+                            <StackPanel x:Name="Stunde"></StackPanel>
+                        </StackPanel>
+                        <StackPanel>
+                            <Label BorderThickness="2" BorderBrush="Black">Fach</Label>
+                            <StackPanel x:Name="Fach"></StackPanel>
+                        </StackPanel>
+                        <StackPanel>
+                            <Label BorderThickness="2" BorderBrush="Black">Lehrer</Label>
+                            <StackPanel x:Name="Lehrer"></StackPanel>
+                        </StackPanel>
+                        <StackPanel>
+                            <Label BorderThickness="2" BorderBrush="Black">Raum</Label>
+                            <StackPanel x:Name="Raum"></StackPanel>
+                        </StackPanel>
+                        <StackPanel>
+                            <Label BorderThickness="2" BorderBrush="Black">Info</Label>
+                            <StackPanel x:Name="Info"></StackPanel>
+                        </StackPanel>
+                    </DockPanel>
+                </ScrollViewer>
+            </TabItem>
+        </TabControl>
+    </DockPanel>
+</Page>

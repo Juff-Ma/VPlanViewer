@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<customxmlfeed>
+		<used>false</used>
+		<feed online="true">https://www.gymnasiummarkneukirchen.de/Intern/VPlan/2012_13/aktueller%20Vetretungsplsn.xml</feed>
+	</customxmlfeed>
+	<OnlyManualRefresh used="false"/>
+</config>
